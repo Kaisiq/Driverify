@@ -1,7 +1,7 @@
 
-# Driverify
+# Driverify v1.5 (JS)
 
-![Driverify logo](https://i.ibb.co/RNJkdPP/Screenshot-8.png)
+![Driverify logo](https://static.posters.cz/image/750/posters/cars-characters-i33475.jpg)
 
 ### Travis CI build status:
 [![Build Status](https://travis-ci.com/teodtedo771/Driverify.svg?branch=master)](https://travis-ci.com/teodtedo771/Driverify)
